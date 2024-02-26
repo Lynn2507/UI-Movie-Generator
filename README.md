@@ -1,1 +1,1 @@
-# Movie Generator with ChatGPT & Dall-E
+# UI Movie Generator
